@@ -4,3 +4,24 @@
     background-image: url('../img/pattern.png');
     background-size: contain;  
 }
+
+.titolo-articolo {
+    font-size: 30px;
+}
+
+.autore {
+    color: grey;
+}
+
+.nome-autore {
+    color: #41B5E8;
+}
+
+.autore, .nome-autore {
+    font-size: 12px;
+}
+
+.data-articolo {
+    color: grey;
+    font-size: 12px;
+}
