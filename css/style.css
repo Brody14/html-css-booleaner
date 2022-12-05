@@ -6,7 +6,7 @@
 }
 
 .titolo-articolo {
-    font-size: 30px;
+    font-size: 50px;
 }
 
 .autore, .suggerimenti {
@@ -25,6 +25,10 @@
 .data-articolo {
     color: grey;
     font-size: 12px;
+}
+
+.immagini-articolo {
+    text-align:center;
 }
 
 .testo-importante {
