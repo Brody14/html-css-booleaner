@@ -1,4 +1,4 @@
-.thebooleaner-header {
+#thebooleaner-header {
     color: white;
     background-color: #4EA0FF;
     background-image: url('../img/pattern.png');
@@ -11,13 +11,14 @@
 
 .autore {
     color: grey;
+    font-size: 15px;
 }
 
 .nome-autore {
     color: #41B5E8;
 }
 
-.autore, .nome-autore {
+.nome-autore, .credits-foto {
     font-size: 12px;
 }
 
