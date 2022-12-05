@@ -9,7 +9,7 @@
     font-size: 30px;
 }
 
-.autore {
+.autore, .suggerimenti {
     color: grey;
     font-size: 15px;
 }
@@ -43,4 +43,22 @@
 
 .righe-dispari {
     background-color: #B1E5F2;
+}
+
+.primo-suggerimento {
+    background-image: url('../img/monitor.jpg');
+    background-size: cover;
+    width: 311px;
+    height: 207px;
+}
+
+.secondo-suggerimento {
+    background-image: url('../img/graph.jpg');
+    background-size: cover;
+    width: 311px;
+    height: 207px;
+}
+
+.link-esterno {
+    color:white;
 }
